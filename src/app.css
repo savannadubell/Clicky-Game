@@ -1,0 +1,14 @@
+.App-header {
+    background-color: darkslategrey;
+    height: 100x;
+    padding: 10px;
+    color: whitesmoke;
+  }
+  
+  .App-title {
+    font-size: 2em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
